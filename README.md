@@ -35,7 +35,7 @@ cmake ..
 make
 ```
 
-* How to implement a sample text:
+* How to implement it on a sample text:
 
 ```Bash
 echo "doch jetzt ist der Held gefallen . ||| but now the hero has fallen ." >> sample.txt
